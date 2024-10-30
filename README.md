@@ -39,3 +39,10 @@ The application provides the following features:
 - Exit the application
 
 ## Sample Output
+<img width="475" alt="s6" src="https://github.com/user-attachments/assets/5e9d5c44-ff0c-4e4c-bbda-df0f1f4f5c4e">
+<img width="312" alt="s5" src="https://github.com/user-attachments/assets/aa24efc3-99cc-4226-acdc-ac138cecea10">
+<img width="464" alt="s4" src="https://github.com/user-attachments/assets/5fa1548e-e826-4193-b84f-c247cefb4611">
+<img width="359" alt="s3" src="https://github.com/user-attachments/assets/ab6152ab-9946-4d3a-ba19-0703544a3a5b">
+<img width="251" alt="s2" src="https://github.com/user-attachments/assets/3d28ac50-4bc8-48b3-95f7-e19ebacd9af9">
+<img width="281" alt="s1" src="https://github.com/user-attachments/assets/4cbe6007-eed7-43bc-9f3a-c47ebfeb33a1">
+
